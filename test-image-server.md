@@ -1,12 +1,11 @@
-# Test Image Server
+# Testing Image Server
 
-This PR tests the image server functionality.
+This file tests the self-hosted image server for PR version icons.
 
-## Version 1
-- Initial commit
+## Changes
+- v1: Initial commit to test version tracking
+- v2: Updated to test icons and range-diff display
 
-## Version 2
-- Added this section to trigger a new push event
-
-## Version 3
-- Another push to test after server restart
+## Expected behavior
+- Icons should display in the PR comment
+- Range-diff should show between v1 and v2
