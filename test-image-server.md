@@ -7,3 +7,6 @@ This PR tests the image server functionality.
 
 ## Version 2
 - Added this section to trigger a new push event
+
+## Version 3
+- Another push to test after server restart
